@@ -1,2 +1,2 @@
 # navigation
-Car navigatoin with google map
+Car navigation with google map
