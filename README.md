@@ -2,6 +2,8 @@
 Car navigation with google map.
 Routing from current location to specified destination.
 
+![alt text](navigation1.jpg)
+
 ### Getting Started
 Download Navigationlibrary from github and add this library to your project.
 
